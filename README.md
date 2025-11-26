@@ -1,4 +1,6 @@
 # Griffin-Scott-Data
+![TheBeanSnow](https://github.com/user-attachments/assets/06343043-62c2-4421-84c9-e84480a5f19e)
+
 
 Hello world! I am Griffin, Industrial Engineer and Data Analyst. I have an affinity for diving into data, developing insights, and then transforming those insights into measurable performance indicators and/or practical action items.
 
