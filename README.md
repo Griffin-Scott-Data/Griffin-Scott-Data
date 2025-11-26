@@ -2,8 +2,8 @@
 
 Hello world! I am Griffin, Industrial Engineer and Data Analyst. I have an affinity for diving into data, developing insights, and then transforming those insights into measurable performance indicators and/or practical action items.
 
-Portfolio
-> While you're here, feel free to take a look at my portfolio. I have completed numerous projects from DataCamp's online database.
+## Portfolio
+While you're here, feel free to take a look at my portfolio. I have completed numerous projects from DataCamp's online database.
 
 ## Skillset
 - Data Visualization: Excel, PowerPoint, Minitab, PowerBI
