@@ -3,7 +3,7 @@
 Hello world! I am Griffin, Industrial Engineer and Data Analyst. I have an affinity for diving into data, developing insights, and then transforming those insights into measurable performance indicators and/or practical action items.
 
 ## Portfolio
-While you're here, feel free to take a look at my [portfolio](https://github.com/Griffin-Scott-Data/Griffin-s_Portfolio). I have completed numerous projects from DataCamp's online database.
+While you're here, feel free to take a look at my [portfolio](https://github.com/Griffin-Scott-Data/Griffin-s_Portfolio). I have completed numerous projects from DataCamp's online database of real world projects.
 
 ## Skillset
 At a quick glance, here are some of the sharpest tools in my Industrial Engineer/Data Analyst toolkit:
