@@ -1,3 +1,3 @@
-# Griffin-Scott-Data-
+# Griffin-Scott-Data
 
 Hello world
