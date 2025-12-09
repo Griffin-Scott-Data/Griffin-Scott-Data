@@ -5,8 +5,8 @@ Hello world! I am Griffin, Industrial Engineer and Data Analyst. I have an affin
 ## Portfolio
 While you're here, feel free to take a look at my [portfolio](https://github.com/Griffin-Scott-Data/Griffin-s_Portfolio). I have completed numerous projects from DataCamp's online database of real world projects.
 
-## Skillset
-At a quick glance, here are some of the sharpest tools in my Industrial Engineer/Data Analyst toolkit:
+## Skillset & Proficiencies
+
 - Data Visualization: Excel, PowerPoint, Minitab, PowerBI
 - Programming: Python, SQL, MATLAB, VBA
 - Additional: AutoCAD, Lean Six Sigma, Statistics, Presentation, Problem-Solving
